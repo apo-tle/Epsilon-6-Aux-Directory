@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="EP6_AUX">
+<Project name="EP6">
     <Package name="Main">
-        <Key ID="STR_EP6_AUX_MAIN_INVITE">
+        <Key ID="STR_EP6_MAIN_INVITE">
             <English>https://discord.gg/hCGq5hHCRs</English>
         </Key>
     </Package>

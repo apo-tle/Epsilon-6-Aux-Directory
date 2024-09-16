@@ -19,7 +19,7 @@ class CfgPatches {
 
 class CfgMods {
     class PREFIX {
-        dir = "@ep6_aux";
+        dir = "@ep6";
         name = "Epsilon 6 - Auxiliary";
         picture = "A3\Ui_f\data\Logos\arma3_expansion_alpha_ca";
         hidePicture = "true";
