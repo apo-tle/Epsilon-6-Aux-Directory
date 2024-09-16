@@ -1,0 +1,14 @@
+name = "Epsilon 6 - Auxiliary";
+dir = "@ep6_aux";
+picture = "";
+actionName = "Github";
+action = "";
+logo = "";
+logoOver = "";
+tooltip = "Epsilon 6 - Auxiliary";
+tooltipOwned = "Epsilon 6 - Auxiliary";
+overview = "The Epsilon 6 Auxiliary mod includes addons required by the primary Epsilon-6 unit.";
+author = "Apostle Golden";
+overviewPicture = "";
+overviewText = "Epsilon 6 - Auxiliary";
+overviewFootnote = "";

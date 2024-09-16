@@ -1,0 +1,36 @@
+name = "Epsilon 6 - Auxiliary"
+prefix = "ep6_aux"
+author = "Apostle Golden"
+mainprefix = "z"
+
+[files]
+include = [
+    "mod.cpp"
+]
+
+[version]
+major = 0
+minor = 1
+patch = 0
+build = 1
+git_hash = 0
+
+[lint.sqf]
+enabled = true # Default: true
+
+[asc]
+enabled = true
+exclude = [
+    "/initsettings.sqf",
+    "/initkeybinds.sqf",
+    "/xeh_prep.sqf"
+]
+
+[hemtt.config]
+preset = "Hemtt"
+
+[hemtt.launch]
+workshop = [
+    "450814997", # CBA_A3's Workshop ID
+    "463939057", # ACE3's Workshop ID
+]
