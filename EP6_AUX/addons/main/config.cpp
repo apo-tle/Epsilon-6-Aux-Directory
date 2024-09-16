@@ -1,0 +1,31 @@
+#include "script_component.hpp"
+
+class CfgPatches {
+    class ADDON {
+        name = COMPONENT_NAME;
+        units[] = {};
+        weapons[] = {};
+        requiredVersion = REQUIRED_VERSION;
+        requiredAddons[] = {
+            "A3_Data_F_Tank_Loadorder",
+            "cba_main",
+            "ace_main"
+        };
+        author = "Apostle Golden";
+        url = CSTRING(INVITE);
+        VERSION_CONFIG;
+    };
+};
+
+class CfgMods {
+    class PREFIX {
+        dir = "@ep6_aux";
+        name = "Epsilon 6 - Auxiliary";
+        picture = "A3\Ui_f\data\Logos\arma3_expansion_alpha_ca";
+        hidePicture = "true";
+        hideName = "true";
+        actionName = "Website";
+        action = CSTRING(INVITE);
+        description = "Join the unit.";
+    };
+};

@@ -1,8 +1,8 @@
 name = "Epsilon 6 - Auxiliary";
 dir = "@ep6_aux";
 picture = "";
-actionName = "Github";
-action = "";
+actionName = "DISCORD";
+action = "https://discord.gg/hCGq5hHCRs";
 logo = "";
 logoOver = "";
 tooltip = "Epsilon 6 - Auxiliary";
